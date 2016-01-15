@@ -9,8 +9,8 @@
 
     <asset src="www/js/smooch-cordova.js" target="js/smooch-cordova.js" />    
     
-    <js-module src="www/js/smooch-cordova.js" name="io-smooch-smcordovaplugin">
-        <clobbers target="plugins.io-smooch-smcordovaplugin" />
+    <js-module src="www/js/smooch-cordova.js" name="smcordovaplugin">
+        <clobbers target="plugins.smcordovaplugin" />
     </js-module>
 
     <!-- ios -->
